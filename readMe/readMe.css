@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  padding-bottom: 200px;
+}
+
+.header {
+  background: #FFD900;
+  width: 100%;
+  height: 350px;
+  padding-top: 65px;
+}
+
+.header-p {
+  font-family: 'SF Mono', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23.87px;
+  text-align: left;
+  margin-left: 140px;
+}
+
+.header-p2 {
+  font-family: 'New York Extra Large', sans-serif;
+  font-family: 'New York Large', sans-serif;
+  font-family: 'New York Medium', sans-serif;
+  font-family: 'New York Small', sans-serif;
+
+  font-size: 200px;
+  font-weight: 700;
+  line-height: 238.67px;
+  margin-left: 131px;
+}
+
+.content1 {
+  margin-left: 131px;
+}
+
+.content1-p1 {
+  font-family: 'New York Extra Large', sans-serif;
+  font-family: 'New York Large', sans-serif;
+  font-family: 'New York Medium', sans-serif;
+  font-family: 'New York Small', sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 52.51px;
+  text-align: left;
+  margin-top: 135px;
+}
+
+.content1-p2 {
+  font-family: 'SF Mono', sans-serif;
+  font-weight: 400;
+  /* line-height: 23.87px; */
+  line-height: 20px;
+  text-align: left;
+  margin-top: 26px;
+  padding-left: 35px;
+  border-left: 3px solid #000000;
+  max-width: 923px;
+  font-size: 20px;
+}
+
+.content-div {
+  margin-top: 26px;
+  padding-left: 35px;
+  border-left: 3px solid #000000;
+}
+
+.content-div-p1 {
+  font-family: 'SF Mono', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23.87px;
+  text-align: left;
+  max-width: 923px;
+}
+
+.content1-div1 {
+  margin-top: 58px;
+}
+
+.content1-div1-p1 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+
+.content1-div1-p2 {
+  font-family: 'SF Mono', sans-serif;
+  font-weight: 400;
+  /* line-height: 23.87px; */
+  line-height: 20px;
+  text-align: left;
+  margin-top: 26px;
+  max-width: 923px;
+  font-size: 20px;
+}
+
+@font-face {
+  font-family: 'Mackay-Bold';
+  src: url('fonts/Mackay-Bold.otf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.content1-div1-p3 {
+  font-family: 'Mackay-Bold', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+
+.content1-div1-p4 {
+  font-family: 'Harriet Text', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+
+@font-face {
+  font-family: 'Basis-Grotesque-Pro';
+  src: url('fonts/BasisGrotesquePro-Medium.ttf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.content1-div1-p5 {
+  font-family: 'Basis-Grotesque-Pro', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
+
+@font-face {
+  font-family: 'nokiafc22';
+  src: url('fonts/nokiafc22.ttf') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.content1-div1-p6 {
+  font-family: 'nokiafc22', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+}
